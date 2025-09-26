@@ -1,0 +1,5 @@
+Anita,anita123@gmail.com,2000-06-15
+Raju,raju.shah@example.co.in,2002-12-01
+InvalidRecord,wrong-email,1995-10-20
+MissingDOB,valid@email.com,
+ExtraField,extra@data.com,2001-01-01,123
